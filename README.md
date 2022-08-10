@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<div id="header" align="center" ><img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" alt="header_image" width="100" /></div>
+<div id="header"  align="center" margin-bottom="40px" ><img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" alt="header_image" width="100" /></div>
 
-https://www.codewars.com/users/Aphness007/badges/large
+<div align="center"><a href='https://www.codewars.com/users/Aphness007'><img src ='https://www.codewars.com/users/Aphness007/badges/large' alt="codewars_score"/></a></div>
 
 <!--
 **Aphness007/Aphness007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
