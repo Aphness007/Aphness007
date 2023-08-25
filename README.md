@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div id="header"  align="center" margin-bottom="40px" ><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="header_image" width="100" /></div>
+<div id="header"  align="center" margin-bottom="40px" ><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="header_image" width="200" /></div>
 
 <div align="center"><a href='https://www.codewars.com/users/rsschool_e402471a3eb0b734'><img src ='https://www.codewars.com/users/rsschool_e402471a3eb0b734/badges/large' alt="codewars_score"/></a></div>
 
